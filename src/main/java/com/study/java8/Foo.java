@@ -24,3 +24,6 @@ public class Foo {
         runSomething2.doIt();
     }
 }
+
+// 자바에서는 편의를 위해 기본적으로 자주 사용될 법한 함수형 인터페이스를 제공한다. ( 따라서 제공된 기능에서 활용가능한 경우, 매번 굳이 함수형 인터페이스를 직접 정의하지 않아도 된다. )
+// : Function, BiFunction, Supplier, Consumer, Predicate, UnaryOperator, BinaryOperator

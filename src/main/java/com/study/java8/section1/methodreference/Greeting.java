@@ -1,4 +1,4 @@
-package com.study.java8.methodreference;
+package com.study.java8.section1.methodreference;
 
 public class Greeting {
 

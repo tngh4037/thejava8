@@ -1,4 +1,4 @@
-package com.study.java8;
+package com.study.java8.section1;
 
 public class Foo {
 
